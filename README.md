@@ -118,24 +118,6 @@ _Sprint 4_
 
 
 
-* _Sprint 2_
-
-
-
-
-
-* _Sprint 3_
-
-
-
-
-
-* _Sprint 4_ 
-
-
-
-
-
 
 
 
