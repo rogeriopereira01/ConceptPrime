@@ -23,23 +23,23 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 # Projeto API
 
-• Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
+ Este estudo tem como objetivo analisar a eficiência dos terminais portuários:
 
-• Levantar e registrar requisitos usando técnicas de Métodos Ágeis e Tradicionais
+* Levantar e registrar requisitos usando técnicas de Métodos Ágeis e Tradicionais;
  
-• Documentar adequadamente DoR e DoD
+* Documentar adequadamente DoR e DoD;
  
-• Planejar desenvolvimento do projeto (Backlog de produto e Backlog de Sprint)
+* Planejar desenvolvimento do projeto (Backlog de produto e Backlog de Sprint);
 
-• Revisar o código analisando sua estrutura de dados
+* Revisar o código analisando sua estrutura de dados;
 
-• Analisar os tempos de operação portuária 
+* Analisar os tempos de operação portuária;
 
-• Avaliar a eficiência entre terminais de operação
+* Avaliar a eficiência entre terminais de operação;
 
-• Analisar os top motivos de paradas de operação registradas
+* Analisar os top motivos de paradas de operação registradas;
 
-• Implementar aplicação usando conceitos de orientação a objetos (ORM)
+* Implementar aplicação usando conceitos de orientação a objetos (ORM);
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Missão, Visão e Valores
@@ -73,15 +73,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize informações sobre a eficiência portuária com base nos tempos de processamentos nos portos brasileiros e dados específicos do setor.
 
 
-• Análise de Eficiência
+* Análise de Eficiência;
 
-• Avaliação dos tempos de operação
+* Avaliação dos tempos de operação;
  
-• Análise de paradas portuárias
+* Análise de paradas portuárias;
  
-• Análise de movimentação
+* Análise de movimentação;
 
-• Análise de cargas 
+* Análise de cargas;
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
