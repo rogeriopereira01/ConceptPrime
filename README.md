@@ -88,15 +88,15 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Portal Estatístico Aquaviário ANTAQ
- > Power BI
- > Colab (Google Colaboratory)
- > Power BI
- > ChatGPT
+ * Portal Estatístico Aquaviário ANTAQ;
+ * Power BI;
+ * Colab (Google Colaboratory);
+ * Power BI;
+ * ChatGPT;
  ### Tecnologias da Informação
- > Python
- > MySQL
- > Excel
+ * Python;
+ * MySQL;
+ * Excel;
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Backlog do Produto 
