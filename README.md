@@ -137,6 +137,7 @@ _Sprint 4 - Análises Complementares e Relatórios_
 
 * _Sprint 1_
 
+![image](https://github.com/user-attachments/assets/ab697db9-f7dd-4377-a715-97fad7a77ebb)
 
 
 
