@@ -21,7 +21,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Projeto 
+# Projeto API
 
 • Este estudo tem como objetivo analisar a eficiência dos terminais portuários.
 
@@ -31,7 +31,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
  
 • Planejar desenvolvimento do projeto (Backlog de produto e Backlog de Sprint)
 
-• Revisar código vendo suas estruturas de dados
+• Revisar o código analisando sua estrutura de dados
 
 • Analisar os tempos de operação portuária 
 
@@ -42,7 +42,31 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 • Implementar aplicação usando conceitos de orientação a objetos (ORM)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
+# Missão, Visão e Valores
 
+
+* Missão: Desenvolver uma Dashboard Interativo que forneça análises precisas sobre a eficiência dos terminais portuários brasileiros, contribuindo para a otimização da logística aquaviária e auxiliando na tomada de decisões estratégicas no setor.
+
+* Visão: Ser uma referência no desenvolvimento de soluções analíticas para o setor logístico, promovendo inovação, eficiência operacional e impacto positivo na gestão portuária.
+
+* Valores: Inovação, Precisão, Transparência e Compromisso com a Qualidade
+  
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Equipe  
+
+|    Função     | Nome                                  |  LinkedIn & GitHub |
+| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  Product Owner  |    Felipe Rodrigues   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
+|  Scrum Master  | Cauã Francesco|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
+|Developer Team  | Rogério Augusto|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
+|  Developer Team  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
+|  Developer Team | Eliel Maciel|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
+| Developer Team | Tassia Nataly |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
+| Developer Team | Josimar Santos|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
+|  Developer Team | Leandro Ramos    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-193040277/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)          |
+
+------------------------------------------------------------------------------------------------------------------------------------------
 # Objetivo do Projeto
 
 
@@ -61,52 +85,50 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Missão, Visão e Valores
+## Tecnologias Utilizadas
 
-
-* Missão: Entregar todos os resultados com qualidade.
-
-* Visão: Evoluir conforme o mercado, tornando-se referência com feedbacks positivos.
-
-* Valores: Planejamento, organização, qualidade, responsabilidade e comprometimento.
-
+ ### Tecnologias Específicas/Apoio
+ > Portal Estatístico Aquaviário ANTAQ
+ > Power BI
+ > Colab (Google Colaboratory)
+ > Power BI
+ > ChatGPT
+ ### Tecnologias da Informação
+ > Python
+ > MySQL
+ > Excel
 ------------------------------------------------------------------------------------------------------------------------------------------
-
-
-# Sprints e Relatórios
-
-| Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2025 | Em andamento   | [Relatório](https://github.com/user-attachments/files/17441616/DOCUMENTO.SPRINT.1.1.docx24.docx)|
-| 02 | 25/04/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17441645/RELATORIO.SPRINT.2.docx)|
-| 03 | 16/05/2025 | Em andamento    | [Relatório](https://github.com/user-attachments/files/17962405/RELATORIO.SPRINT.3.docx)
-| 04 | 27/06/2025 | Em andamento | [Relatório](https://github.com/user-attachments/files/17962423/RELATORIO.SPRINT.4-1.docx)|
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
 
 # Backlog do Produto 
 
-_Sprint 1_
 
+_Sprint 1 - Estruturação e Funcionalidades Básicas_
 
+- [ ] Criar sistema de segmentação dos terminais portuários;
+- [ ] Implementar busca por terminal portuário específico;
+- [ ] Criar painel estatístico com tempos médios de operação nos portos;
+- [ ] Criar painel estatístico com principais cargas movimentadas;
+  
+_Sprint 2 - Filtros e Personalização da Análise_
 
+- [ ] Implementar filtro de movimentação mensal de carga;
+- [ ] Adicionar filtros personalizados na análise dos dados;
+- [ ] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
+- [ ] Implementar histórico da evolução das cargas movimentadas;
+  
+_Sprint 3 - Visualização Avançada e Interação_
 
-_Sprint 2_
+- [ ] Criar gráficos interativos com evolução dos tempos de espera nos portos;
+- [ ] Permitir integração dos dados com outras ferramentas de BI;
+- [ ] Criar comparativo de desempenho entre terminais portuários;
+- [ ] Implementar mapa interativo dos terminais com indicadores de eficiência;
 
+_Sprint 4 - Análises Complementares e Relatórios_
 
+- [ ] Desenvolver acompanhamento da taxa de utilização dos portos ao longo do tempo;
+- [ ] Implementar relatórios de produtividade dos terminais portuários;
 
-_Sprint 3_
-
-
-
-_Sprint 4_
-
-
+  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dashboard
@@ -122,7 +144,6 @@ _Sprint 4_
 
 
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -132,19 +153,14 @@ _Sprint 4_
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
+# Sprints e Relatórios
 
-# Equipe Funções 
-
-|    Função     | Nome                                  |  LinkedIn & GitHub |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  Product Owner  |    Felipe Rodrigues   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
-|  Scrum Master  | Cauã Francesco|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
-|Developer Team  | Rogério Augusto|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
-|  Developer Team  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
-|  Developer Team | Eliel Maciel|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
-| Developer Team | Tassia Nataly |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
-| Developer Team | Josimar Santos|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
-|  Developer Team | Leandro Ramos    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-ramos-193040277/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)          |
-
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 04/04/2025 | Em andamento   ||
+| 02 | 25/04/2025 | Em andamento    ||
+| 03 | 16/05/2025 | Em andamento    ||
+| 04 | 27/06/2025 | Em andamento ||
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
