@@ -60,7 +60,6 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 |  Product Owner  |    Felipe Rodrigues   |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elielmaciel2022?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElielMaciel/Template)     |           
 |  Scrum Master  | Cauã Francesco|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-augusto-85b115199/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rogeriopereira01)     |
 |  Team Member  | Rogério Augusto|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cauafrancesco) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
-|  Team Member  | Elisama Israele             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/elisama-silva-a11a3b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ElisamaIsraele)      |
 |  Team Member  | Eliel Maciel|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rodrigues-silva-234249169?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Feliperodrigues17)     |
 |  Team Member  | Tassia Nataly |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-c-ribeiro-914245222) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Guilhermecarvalhoribeiro)     |
 |  Team Member  | Josimar Santos|      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josimar-santos-2b4329288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com)     |
@@ -104,17 +103,16 @@ O objetivo deste projeto é desenvolver uma plataforma de BI que disponibilize i
 
 _Sprint 1 - Estruturação e Funcionalidades Básicas_
 
-- [ ] Criar sistema de segmentação dos terminais portuários;
-- [ ] Implementar busca por terminal portuário específico;
-- [ ] Criar painel estatístico com tempos médios de operação nos portos;
-- [ ] Criar painel estatístico com principais cargas movimentadas;
+- [x] Criar sistema de segmentação dos terminais portuários;
+- [x] Implementar busca por terminal portuário específico;
+- [x] Criar painel estatístico com tempos médios de operação nos portos;
+- [x] Criar painel estatístico com principais cargas movimentadas;
   
 _Sprint 2 - Filtros e Personalização da Análise_
 
-- [ ] Implementar filtro de movimentação mensal de carga;
-- [ ] Adicionar filtros personalizados na análise dos dados;
-- [ ] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
-- [ ] Implementar histórico da evolução das cargas movimentadas;
+- [x] Implementar filtro de movimentação mensal de carga;
+- [x] Adicionar filtros personalizados na análise dos dados;
+- [x] Implementar histórico da evolução das cargas movimentadas;
   
 _Sprint 3 - Visualização Avançada e Interação_
 
@@ -122,6 +120,7 @@ _Sprint 3 - Visualização Avançada e Interação_
 - [ ] Permitir integração dos dados com outras ferramentas de BI;
 - [ ] Criar comparativo de desempenho entre terminais portuários;
 - [ ] Implementar mapa interativo dos terminais com indicadores de eficiência;
+- [ ] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
 
 _Sprint 4 - Análises Complementares e Relatórios_
 
@@ -158,8 +157,8 @@ _Sprint 4 - Análises Complementares e Relatórios_
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2025 | Em andamento   ||
-| 02 | 25/04/2025 | Em andamento    ||
+| 01 | 04/04/2025 | Concluído   ||
+| 02 | 09/05/2025 | Concluído    ||
 | 03 | 16/05/2025 | Em andamento    ||
 | Feira de Soluções | 29/05/2025 | Em andamento    ||
 | 04 | 27/06/2025 | Em andamento ||
