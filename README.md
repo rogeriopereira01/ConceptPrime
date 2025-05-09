@@ -10,14 +10,14 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a proatividad
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 # Índice
-* Projeto
+* Projeto API
+* Missão, visão e Valores
+* Equipe
 * Objetivo do Projeto
-* Missão, visão e Valores 
-* Sprints e relatórios
+* Tecnologias Utilizadas
 * Backlog do produto
 * Dashboard
-* Equipe funções
-* Competências desenvolvidas
+* Sprints e Relatórios
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -136,19 +136,19 @@ _Sprint 4 - Análises Complementares e Relatórios_
 
 * _Sprint 1_
 
+Esta tela de BI permite filtrar dados por tipo de navegação e complexo portuário, visualizar a média de tempo de espera por porto, a contagem de atracações por complexo e comparar o tempo de espera entre diferentes portos por meio de gráficos e indicadores.
+
 ![image](https://github.com/user-attachments/assets/ab697db9-f7dd-4377-a715-97fad7a77ebb)
 
+* _Sprint 2_
 
+Esta tela de BI oferece filtros por tipo de navegação e complexo portuário, além de exibir gráficos com a contagem de atracações, o tempo médio de espera final por porto e a comparação de tempos médios entre complexos portuários.
 
+![image](https://github.com/user-attachments/assets/993c64d1-40a5-4b45-82bb-615e4cda2dd6)
 
+Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e porto, exibindo indicadores como volume total movimentado, tempos médios (espera, operação, final) e gráficos de peso bruto por trimestre, atracações por complexo portuário e localização geográfica das operações.
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/d6b38c6b-da1c-4814-bf00-4f0ec870f4fd)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
