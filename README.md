@@ -157,8 +157,8 @@ Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2025 | Concluído   |https://drive.google.com/drive/folders/13R9Es8C4-25-NlUJppLGJ1RLTTgeJa7O?usp=sharing|
-| 02 | 09/05/2025 | Concluído    ||
+| 01 | 04/04/2025 | Concluído   |https://docs.google.com/document/d/1gcePQVQntiUOe-uNfZnPwJeC-1hHWaQ1/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
+| 02 | 09/05/2025 | Concluído    |https://docs.google.com/document/d/1LZSi6g053fnnAC0g0bF5hw1JYBr6bNJ7/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
 | 03 | 16/05/2025 | Em andamento    ||
 | Feira de Soluções | 29/05/2025 | Em andamento    ||
 | 04 | 27/06/2025 | Em andamento ||
