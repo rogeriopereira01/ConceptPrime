@@ -134,35 +134,35 @@ _Sprint 4 - Análises Complementares e Relatórios_
 
 * _Sprint 1_
 
-Esta tela de BI permite filtrar dados por tipo de navegação e complexo portuário, visualizar a média de tempo de espera por porto, a contagem de atracações por complexo e comparar o tempo de espera entre diferentes portos por meio de gráficos e indicadores.
+ Esta tela de BI permite filtrar dados por tipo de navegação e complexo portuário, visualizar a média de tempo de espera por porto, a contagem de atracações por complexo e comparar o tempo de espera entre diferentes portos por meio de gráficos e indicadores.
 
 ![image](https://github.com/user-attachments/assets/ab697db9-f7dd-4377-a715-97fad7a77ebb)
 
 * _Sprint 2_
 
-Esta tela de BI oferece filtros por tipo de navegação e complexo portuário, além de exibir gráficos com a contagem de atracações, o tempo médio de espera final por porto e a comparação de tempos médios entre complexos portuários.
+ Esta tela de BI oferece filtros por tipo de navegação e complexo portuário, além de exibir gráficos com a contagem de atracações, o tempo médio de espera final por porto e a comparação de tempos médios entre complexos portuários.
 
 ![image](https://github.com/user-attachments/assets/993c64d1-40a5-4b45-82bb-615e4cda2dd6)
 
-Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e porto, exibindo indicadores como volume total movimentado, tempos médios (espera, operação, final) e gráficos de peso bruto por trimestre, atracações por complexo portuário e localização geográfica das operações.
+ Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e porto, exibindo indicadores como volume total movimentado, tempos médios (espera, operação, final) e gráficos de peso bruto por trimestre, atracações por complexo portuário e localização geográfica das operações.
 
 ![image](https://github.com/user-attachments/assets/d6b38c6b-da1c-4814-bf00-4f0ec870f4fd)
 
 * _Sprint 3_
 
-Na seguinte tela de BI, é possível analisar dados logísticos das atracações por ano, tipo de navegação e porto, com indicadores como total de atracações, tempos médios de espera por porto e complexo portuário, além de gráficos de variação mensal, contagem por local e distribuição geográfica das operações.
+ Na seguinte tela de BI, é possível analisar dados logísticos das atracações por ano, tipo de navegação e porto, com indicadores como total de atracações, tempos médios de espera por porto e complexo portuário, além de gráficos de variação mensal, contagem por local e distribuição geográfica das operações.
 
 ![image](https://github.com/user-attachments/assets/27a38b9c-a080-4df2-a224-4812cc56a6f3)
 
-Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e complexo portuário, com indicadores como volume total movimentado (82 bilhões), tempos médios (espera por complexo, espera inicial, operação e espera final) e visualizações gráficas do peso bruto por trimestre, quantidade de atracações por complexo e distribuição geográfica das operações.
+ Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e complexo portuário, com indicadores como volume total movimentado (82 bilhões), tempos médios (espera por complexo, espera inicial, operação e espera final) e visualizações gráficas do peso bruto por trimestre, quantidade de atracações por complexo e distribuição geográfica das operações.
 
 ![image](https://github.com/user-attachments/assets/891acf76-94db-471d-918a-2ff8c25ab66d)
 
-Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e complexo portuário, com indicadores como volume total movimentado (82 bilhões), tempos médios (espera por complexo, espera inicial, operação e espera final) e visualizações gráficas do peso bruto por trimestre, quantidade de atracações por complexo e distribuição geográfica das operações.
+ Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e complexo portuário, com indicadores como volume total movimentado (82 bilhões), tempos médios (espera por complexo, espera inicial, operação e espera final) e visualizações gráficas do peso bruto por trimestre, quantidade de atracações por complexo e distribuição geográfica das operações.
 
 ![image](https://github.com/user-attachments/assets/da64c1c6-bf92-43fd-b806-fd7fbf684a20)
 
-Na seguinte tela de BI, é possível acompanhar o desempenho dos principais tempos logísticos por meio de KPIs comparativos. São exibidas as médias e metas para os tempos inicial, de ocupação, de operação, de chegada e final, permitindo a análise por ano e por porto ou complexo portuário. 
+ Na seguinte tela de BI, é possível acompanhar o desempenho dos principais tempos logísticos por meio de KPIs comparativos. São exibidas as médias e metas para os tempos inicial, de ocupação, de operação, de chegada e final, permitindo a análise por ano e por porto ou complexo portuário. 
 
 ![image](https://github.com/user-attachments/assets/e79b43c8-904a-4cdb-9cd8-4646a59d5bf4)
 
@@ -172,9 +172,9 @@ Na seguinte tela de BI, é possível acompanhar o desempenho dos principais temp
 
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2025 | Concluído   |https://docs.google.com/document/d/1l-Tfr72l4-xbSOqCwDB0Yr2nQJuImNNO/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
-| 02 | 09/05/2025 | Concluído    |https://docs.google.com/document/d/1AUJ8Xa8uA9lxOtb2EUMl7f2Mhnj8sSgn/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
-| 03 | 30/05/2025 | Em andamento    ||
+| 01 | 04/04/2025 | Concluído |https://docs.google.com/document/d/1l-Tfr72l4-xbSOqCwDB0Yr2nQJuImNNO/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
+| 02 | 09/05/2025 | Concluído |https://docs.google.com/document/d/1AUJ8Xa8uA9lxOtb2EUMl7f2Mhnj8sSgn/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
+| 03 | 30/05/2025 | Concluído |https://docs.google.com/document/d/1YOLgqRZNxleNd9V5Gl6B9qLEMOJBSOc-/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
 | Feira de Soluções | 17/06/2025 | Em andamento    ||
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
