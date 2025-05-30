@@ -118,9 +118,9 @@ _Sprint 3 - Visualização Avançada e Interação_
 
 - [x] Criar gráficos interativos com evolução dos tempos de espera nos portos;
 - [x] Permitir integração dos dados com outras ferramentas de BI;
-- [ ] Criar comparativo de desempenho entre terminais portuários;
-- [ ] Implementar mapa interativo dos terminais com indicadores de eficiência;
-- [ ] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
+- [x] Criar comparativo de desempenho entre terminais portuários;
+- [x] Implementar mapa interativo dos terminais com indicadores de eficiência;
+- [x] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
 
 _Sprint 4 - Análises Complementares e Relatórios_
 
@@ -148,6 +148,23 @@ Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja
 
 ![image](https://github.com/user-attachments/assets/d6b38c6b-da1c-4814-bf00-4f0ec870f4fd)
 
+* _Sprint 3_
+
+Na seguinte tela de BI, é possível analisar dados logísticos das atracações por ano, tipo de navegação e porto, com indicadores como total de atracações, tempos médios de espera por porto e complexo portuário, além de gráficos de variação mensal, contagem por local e distribuição geográfica das operações.
+
+![image](https://github.com/user-attachments/assets/27a38b9c-a080-4df2-a224-4812cc56a6f3)
+
+Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e complexo portuário, com indicadores como volume total movimentado (82 bilhões), tempos médios (espera por complexo, espera inicial, operação e espera final) e visualizações gráficas do peso bruto por trimestre, quantidade de atracações por complexo e distribuição geográfica das operações.
+
+![image](https://github.com/user-attachments/assets/891acf76-94db-471d-918a-2ff8c25ab66d)
+
+Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja por ano, região e complexo portuário, com indicadores como volume total movimentado (82 bilhões), tempos médios (espera por complexo, espera inicial, operação e espera final) e visualizações gráficas do peso bruto por trimestre, quantidade de atracações por complexo e distribuição geográfica das operações.
+
+![image](https://github.com/user-attachments/assets/da64c1c6-bf92-43fd-b806-fd7fbf684a20)
+
+Na seguinte tela de BI, é possível acompanhar o desempenho dos principais tempos logísticos por meio de KPIs comparativos. São exibidas as médias e metas para os tempos inicial, de ocupação, de operação, de chegada e final, permitindo a análise por ano e por porto ou complexo portuário. 
+
+![image](https://github.com/user-attachments/assets/e79b43c8-904a-4cdb-9cd8-4646a59d5bf4)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
