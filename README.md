@@ -116,8 +116,8 @@ _Sprint 2 - Filtros e Personalização da Análise_
   
 _Sprint 3 - Visualização Avançada e Interação_
 
-- [ ] Criar gráficos interativos com evolução dos tempos de espera nos portos;
-- [ ] Permitir integração dos dados com outras ferramentas de BI;
+- [x] Criar gráficos interativos com evolução dos tempos de espera nos portos;
+- [x] Permitir integração dos dados com outras ferramentas de BI;
 - [ ] Criar comparativo de desempenho entre terminais portuários;
 - [ ] Implementar mapa interativo dos terminais com indicadores de eficiência;
 - [ ] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
@@ -159,9 +159,8 @@ Na seguinte tela de BI, é possível analisar dados logísticos da carga de soja
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 04/04/2025 | Concluído   |https://docs.google.com/document/d/1l-Tfr72l4-xbSOqCwDB0Yr2nQJuImNNO/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
 | 02 | 09/05/2025 | Concluído    |https://docs.google.com/document/d/1AUJ8Xa8uA9lxOtb2EUMl7f2Mhnj8sSgn/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
-| 03 | 16/05/2025 | Em andamento    ||
-| Feira de Soluções | 29/05/2025 | Em andamento    ||
-| 04 | 27/06/2025 | Em andamento ||
+| 03 | 30/05/2025 | Em andamento    ||
+| Feira de Soluções | 17/06/2025 | Em andamento    ||
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
