@@ -171,7 +171,7 @@ _Sprint 4 - Análises Complementares e Relatórios_
 # Sprints e Relatórios
 
 | Sprint | Previsão de entrega | Status           | Histórico |
-|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+|:--:|:----------:|:-------------------|:---------------------------------------------------------------:|
 | 01 | 04/04/2025 | Concluído |https://docs.google.com/document/d/1l-Tfr72l4-xbSOqCwDB0Yr2nQJuImNNO/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
 | 02 | 09/05/2025 | Concluído |https://docs.google.com/document/d/1AUJ8Xa8uA9lxOtb2EUMl7f2Mhnj8sSgn/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
 | 03 | 30/05/2025 | Concluído |https://docs.google.com/document/d/1YOLgqRZNxleNd9V5Gl6B9qLEMOJBSOc-/edit?usp=drive_link&ouid=109462527011949482880&rtpof=true&sd=true|
