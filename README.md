@@ -122,7 +122,7 @@ _Sprint 3 - Visualização Avançada e Interação_
 - [ ] Implementar mapa interativo dos terminais com indicadores de eficiência;
 - [ ] Criar visualização dos motivos de paradas portuárias e padrões sazonais;
 
-_Sprint 4 - Análises Complementares e Relatórios_Add commentMore actions_
+_Sprint 4 - Análises Complementares e Relatórios_
 
 - [ ] Desenvolver acompanhamento da taxa de utilização dos portos ao longo do tempo;
 - [ ] Implementar relatórios de produtividade dos terminais portuários;
